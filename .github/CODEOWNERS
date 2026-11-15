@@ -1,0 +1,6 @@
+# Structural files. A pull request that changes any of them needs an approval
+# from @facchini-miguel before it can be merged (ruleset "Protect main").
+# The episode contents (EP01/, ...) and the README are merged without it.
+
+# This file and any future CI
+/.github/                       @facchini-miguel
